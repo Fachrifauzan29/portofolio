@@ -272,7 +272,6 @@
     padding: 30px 0;
     background: var(--background);
     z-index: 3;
-    transition: 1s;
     overflow: auto;
 }
 
